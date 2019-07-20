@@ -1,0 +1,16 @@
+body{
+    background: white url("images/background5.jpg");
+}
+.navbar{
+    border-radius: 0;
+}
+.navbar-brand{
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospaces;
+}
+label:hover{
+    cursor: pointer;
+    font-size: larger;
+    font-family: Consolas, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace ;
+    color:revert;
+
+}
