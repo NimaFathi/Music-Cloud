@@ -30,5 +30,5 @@ As you see you can easily add a new album, it is neccessary to fill all the blan
 To add Song you can click on you album and then add song like this:
 ![add song](https://github.com/Niwgoat/Music-Cloud/blob/master/myWeb/media/6.png)
 As you see this is so straight forward you need to just write down music name and then submit you Song file.<br>
-<h2><strong>@author: <a href="https://github.com/Niwgoat">@niwgoat</a></strong> (Nima Fathi)</h2>
+<h2><strong>author: <a href="https://github.com/Niwgoat">@Niwgoat</a></strong> (Nima Fathi)</h2>
 
