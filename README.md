@@ -1,5 +1,4 @@
-# Music-Cloud
-# Creator Name: Nima Fathi (Niwgoat)
+@author: @niwgoat
 This is a Django Project that every body could share their Musics with each other and have fun! 
 I Used Django framework to start this project up
 and also used html, css andd javascript 
