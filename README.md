@@ -19,7 +19,7 @@ then you could favorite some Albums :star: or you can delete them :recycle: or y
 If you click on view details you will go to another link there are details of albums such as whcih genre is this Album about or what Songs is there and there you can add songs to your Album or delete from it.
 ![DETAIL](https://github.com/Niwgoat/Music-Cloud/blob/master/myWeb/media/2.png)
 # Register
-You have to go to '/music/register/' and after that this page will shows up:
+You have to go to <strong>'/music/register/'</strong> and after that this page will shows up:
 ![Register](https://github.com/Niwgoat/Music-Cloud/blob/master/myWeb/media/4.png)
 Then you choose to sign in or if you dont have an account click on that link and make a new account.
 # Adding Albums
