@@ -1,4 +1,4 @@
-@author: @niwgoat
+#Music Cloud
 This is a Django Project that every body could share their Musics with each other and have fun! 
 I Used Django framework to start this project up
 and also used html, css andd javascript 
@@ -30,3 +30,4 @@ As you see you can easily add a new album, it is neccessary to fill all the blan
 To add Song you can click on you album and then add song like this:
 ![add song](https://github.com/Niwgoat/Music-Cloud/blob/master/myWeb/media/6.png)
 As you see this is so straight forward you need to just write down music name and then submit you Song file.
+@author: @niwgoat (Nima Fathi)
