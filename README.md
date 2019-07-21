@@ -9,4 +9,4 @@ also get ideas from some online tutorilas.
 my final idea is to spread this online socialmedia web and could share some picutes and videos as well.
 # what is Music Cloud
 Music Cloud is a cloud you can upload store and play your musics all over the world and use others people shared files too.
-![homepage](home/nima/Pictures/1.png)
+![homepage](Music-Cloud/media/1.png)
